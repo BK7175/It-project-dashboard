@@ -12,9 +12,9 @@ A simple, interactive IT Project Management Dashboard built with HTML, CSS, and 
 
 ---
 
-## 🖼️ Preview
+// ## 🖼️ Preview
 
-![Dashboard Preview](https://user-images.githubusercontent.com/your-placeholder/dashboard-screenshot.png)
+// ![Dashboard Preview](https://user-images.githubusercontent.com/your-placeholder/dashboard-screenshot.png)
 
 ---
 
