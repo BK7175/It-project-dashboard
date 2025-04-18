@@ -8,7 +8,7 @@ A simple, interactive IT Project Management Dashboard built with HTML, CSS, and 
 
 [![GitHub Pages](https://img.shields.io/badge/Live%20Demo-Available-brightgreen?style=for-the-badge)](https://bk7175.github.io/It-project-dashboard/)
 [![Technologies](https://img.shields.io/badge/Tech-HTML%2FCSS%2FJS-blue?style=for-the-badge)]()
-[![License](https://img.shields.io/github/license/bk7175/It-project-dashboard?style=for-the-badge)](https://github.com/BK7175/It-project-dashboard/blob/main/README.md)
+[![License](https://img.shields.io/github/license/bk7175/It-project-dashboard?style=for-the-badge)](https://github.com/BK7175/It-project-dashboard/blob/main/License)
 
 ---
 
