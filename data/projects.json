@@ -1,1 +1,6 @@
+[
+  { "name": "Client Portal Redesign", "status": "In Progress", "deadline": "2025-05-30" },
+  { "name": "Internal CRM Setup", "status": "Completed", "deadline": "2025-04-10" },
+  { "name": "API Integration Project", "status": "Planning", "deadline": "2025-06-20" }
+]
 
