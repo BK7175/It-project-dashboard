@@ -1,1 +1,6 @@
+[
+  { "name": "Aisha Khan", "role": "Frontend Dev", "availability": "80%" },
+  { "name": "Liam Smith", "role": "Backend Dev", "availability": "60%" },
+  { "name": "Maria Gomez", "role": "QA", "availability": "100%" }
+]
 
