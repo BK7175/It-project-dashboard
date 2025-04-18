@@ -1,1 +1,8 @@
+[
+  { "id": 1, "title": "Login bug", "priority": "High", "status": "Open" },
+  { "id": 2, "title": "UI feedback", "priority": "Low", "status": "In Progress" },
+  { "id": 3, "title": "Data sync issue", "priority": "Medium", "status": "Closed" },
+  { "id": 4, "title": "Missing alerts", "priority": "High", "status": "Open" },
+  { "id": 5, "title": "Performance improvement", "priority": "Medium", "status": "In Progress" }
+]
 
