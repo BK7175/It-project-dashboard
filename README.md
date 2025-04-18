@@ -31,13 +31,22 @@ A simple, interactive IT Project Management Dashboard built with HTML, CSS, and 
 ## 📁 Folder Structure
 
 -it-project-dashboard/
+
 ├── index.html
+
 ├── assets/
+
 │   ├── style.css
+
 │   └── script.js
+
 ├── data/
+
 │   ├── projects.json
+
 │   ├── tickets.json
+
 │   └── resources.json
+
 └── README.md
 
