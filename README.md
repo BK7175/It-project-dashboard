@@ -6,7 +6,7 @@ A simple, interactive IT Project Management Dashboard built with HTML, CSS, and 
 - 🐞 Ticket status charts (powered by Chart.js)
 - 👥 Resource allocation tables
 
-[![GitHub Pages](https://img.shields.io/badge/Live%20Demo-Available-brightgreen?style=for-the-badge)](https://bk7175.github.io/it-project-dashboard/)
+[![GitHub Pages](https://img.shields.io/badge/Live%20Demo-Available-brightgreen?style=for-the-badge)](https://bk7175.github.io/It-project-dashboard/)
 [![Technologies](https://img.shields.io/badge/Tech-HTML%2FCSS%2FJS-blue?style=for-the-badge)]()
 [![License](https://img.shields.io/github/license/yourusername/it-project-dashboard?style=for-the-badge)]()
 
